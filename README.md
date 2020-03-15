@@ -1,17 +1,4 @@
-The [pandoc-templates] repository contains default templates for [pandoc].
-
-If you use custom templates, we recommend forking this
-repository, so that you can integrate changes to the default
-templates in future pandoc releases.
-
-This repository is a subtree of [pandoc]; it will be updated
-each time there is a new pandoc release.  However, changes to
-templates are made first in [pandoc]; thus, issues and pull
-requests should be made [pandoc]'s issue tracker rather than
-here.
-
-[pandoc]: https://github.com/jgm/pandoc
-[pandoc-templates]: https://github.com/jgm/pandoc-templates
+Custom templates for VisCon.
 
 All of the templates in this repository are dual licensed, under both
 the GPL (v2 or higher, same as pandoc) and the BSD 3-clause license

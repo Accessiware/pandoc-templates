@@ -2,7 +2,7 @@
 <html$if(lang)$ lang="$lang$"$endif$$if(dir)$ dir="$dir$"$endif$>
 <head>
   <meta charset="utf-8">
-  <meta name="generator" content="pandoc">
+  <meta name="generator" content="VisCon">
 $for(author-meta)$
   <meta name="author" content="$author-meta$">
 $endfor$

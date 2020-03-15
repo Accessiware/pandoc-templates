@@ -32,7 +32,7 @@ $endif$
 $if(sourceDesc)$
       $sourceDesc$
 $else$
-      <p>Produced by pandoc.</p>
+      <p>Produced by VisCon.</p>
 $endif$
     </sourceDesc>
   </fileDesc>
